@@ -16,7 +16,7 @@ I seguenti scenari demo sono stati preparati da SAP, nei link trovi la spiegazio
 - Plan to Produce using Advanced Planning for Capacity Utilization  
 [2020 SP00](https://www.sap.com/documents/2020/12/02d64b0a-c27d-0010-87a3-c30de2ffd8ff.html)
 - Demand-driven replenishment  
-[2020 &amp](https://www.sap.com/documents/2019/12/f641a5b5-767d-0010-87a3-c30de2ffd8ff.html) 
+[2020 SP00](https://www.sap.com/documents/2019/12/f641a5b5-767d-0010-87a3-c30de2ffd8ff.html) 
 - Predictive Material &amp; Resource Planning (pMRP)  
 [2020 SP00](https://www.sap.com/documents/2020/12/76ac8c0b-c27d-0010-87a3-c30de2ffd8ff.html)
 
@@ -87,7 +87,7 @@ I seguenti scenari demo sono stati preparati da SAP, nei link trovi la spiegazio
 - Print Form Customization  
 [2020 SP00 / 1909 (all FPS) ](https://www.sap.com/documents/2019/12/e4cc46b4-767d-0010-87a3-c30de2ffd8ff.html) 
 - SAP Screen Personas  
-[2020 &amp](https://www.sap.com/documents/2019/12/0087b4b6-767d-0010-87a3-c30de2ffd8ff.html) 
+[2020 SP00](https://www.sap.com/documents/2019/12/0087b4b6-767d-0010-87a3-c30de2ffd8ff.html) 
 
 ## Technical
 
