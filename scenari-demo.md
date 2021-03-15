@@ -7,7 +7,7 @@ I seguenti scenari demo sono stati preparati da SAP, nei link trovi la spiegazio
 - Overview pages for Sales / Finance / Procurement  
 [2020 SP00](https://www.sap.com/documents/2020/12/48c38b0a-c27d-0010-87a3-c30de2ffd8ff.html)
 
- ## Logistics
+## Logistics
 
 - Sell from Stock with Outbound Delivery Processing  
 [2020 SP00](https://www.sap.com/documents/2020/04/70fbf1d0-8f7d-0010-87a3-c30de2ffd8ff.html)
